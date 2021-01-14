@@ -4,7 +4,7 @@ Wow I feel special for finding out this cool Github feature (aka found it off an
 
 I'm a software developer that mainly works on full-stack web applications, and I've also work in mobile app development with Flutter.
 I also love to learn about other front-end web frameworks, and I've also recently taken an interest in app deployment and the DevOps side of programming!
-When I'm not furiously recompiling my code and trying to figure out why I have a segmentation fault in C++, I play badminton 🏸, paddle on my SUP 🏄, powerlift 🏋🏽, and make sure my dog doesn't eat more shoes 🐶!
+When I'm not furiously recompiling my code and trying to figure out why I have a segmentation fault in C++, I try and make sure my dog doesn't eat more shoes 🐶!
 
 ## Currently working on:
 
