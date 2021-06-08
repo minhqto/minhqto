@@ -8,7 +8,6 @@ When I'm not furiously recompiling my code and trying to figure out why I have a
 
 ## Currently working on:
 
-- Adding cool user-engaging features to https://mypalate.ca/
 - Making sure I can reverse a linked list
 
 <!--
