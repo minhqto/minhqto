@@ -10,6 +10,7 @@ When I'm not trying to figure out why my gradle files aren't syncing properly, I
 
 - Android development @ Hootsuite
 - Making sure I can reverse a linked list
+- Learning about clean architecture
 
 <!--
 **minhqto/minhqto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
