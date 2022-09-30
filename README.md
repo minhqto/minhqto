@@ -8,7 +8,7 @@ When I'm not trying to figure out why my gradle files aren't syncing properly, I
 
 ## Currently working on:
 
-- Android development @Hootsuite
+- Android development
 - Making sure I can reverse a linked list
 - Learning about clean architecture
 
