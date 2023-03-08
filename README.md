@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Minh!
 
-Wow I feel special for finding out this cool Github feature (aka found it off another github profile).
-
 I'm a software developer that is currently focused on Android development using Kotlin and Java.
 I also like to dabble with Swift and iOS development, and I've also recently taken an interest in server side development as well!
 When I'm not trying to figure out why my gradle files aren't syncing properly, I try and make sure my dog doesn't eat more shoes 🐶!
